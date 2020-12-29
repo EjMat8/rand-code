@@ -19,5 +19,9 @@
   "homepage": "https://github.com/EjMat8/rand-code#readme",
   "devDependencies": {
     "parcel": "^2.0.0-beta.1"
+  },
+  "dependencies": {
+    "core-js": "^3.8.1",
+    "regenerator-runtime": "^0.13.7"
   }
 }
