@@ -1,0 +1,23 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "Practice",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EjMat8/rand-code.git"
+  },
+  "author": "Franz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EjMat8/rand-code/issues"
+  },
+  "homepage": "https://github.com/EjMat8/rand-code#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1"
+  }
+}
